@@ -12,7 +12,7 @@
 
 - 📫 How to reach me harshitaaggarwal1000@gmail.com
 
-- 👨🏻‍💻 All of my projects are available at <a href = "https://github.com/harshi22000">github.com/iritikkumar/ </a>
+- 👨🏻‍💻 All of my projects are available at <a href = "https://github.com/harshi22000">https://github.com/harshi22000 </a>
 
 <h3 align="left">Connect with me:</h3>
 
